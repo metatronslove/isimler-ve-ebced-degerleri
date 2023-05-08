@@ -12,3 +12,7 @@ dosya içeriği şu şekildedir:
 
 ![Screenshot](https://github.com/metatronslove/isimler-ve-ebced-de-erleri/blob/master/G%C3%B6r%C3%BCnt%C3%BC%20Yakalay%C4%B1c%C4%B136.png?raw=true "Ekran Görüntüsü")
 
+
+```isimler2023.py``` çalışırken alınan bir ekran kaydı (patlamış mısır, çekirdek ya da fıstık)
+
+[![Web Sitesinden Python İle Çekilen İsimlerin Makro İle Ebced Değerlerini Kurcalamak](https://i.ytimg.com/vi/ENpnUmUl-Uk/maxresdefault.jpg)](https://youtu.be/ENpnUmUl-Uk "Web Sitesinden Python İle Çekilen İsimlerin Makro İle Ebced Değerlerini Kurcalamak")
