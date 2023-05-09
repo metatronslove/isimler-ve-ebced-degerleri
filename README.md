@@ -15,4 +15,4 @@ dosya içeriği şu şekildedir:
 
 ```isimler2023.py``` çalışırken alınan bir ekran kaydı (patlamış mısır, çekirdek ya da fıstık)
 
-[![Web Sitesinden Python İle Çekilen İsimlerin Makro İle Ebced Değerlerini Kurcalamak](http://img.youtube.com/vi/ENpnUmUl-Uk/maxresdefault.jpg)](https://youtu.be/ENpnUmUl-Uk "Web Sitesinden Python İle Çekilen İsimlerin Makro İle Ebced Değerlerini Kurcalamak")
+[![Web Sitesinden Python İle Çekilen İsimlerin Makro İle Ebced Değerlerini Kurcalamak](http://img.youtube.com/vi/ENpnUmUl-Uk/hqdefault.jpg)](https://youtu.be/ENpnUmUl-Uk "Web Sitesinden Python İle Çekilen İsimlerin Makro İle Ebced Değerlerini Kurcalamak")
